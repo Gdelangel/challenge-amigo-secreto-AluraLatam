@@ -3,9 +3,10 @@
 - Estado del proyecto: In progress
 
 - Caracteristicas de la aplicacion:
-    Implementa una función para agregar amigos
-    Implementa una función para actualizar la lista de amigos
-    Implementa una función para sortear los amigos
+    - Implementa una función para agregar amigos
+    - Implementa una función para actualizar la lista de amigos
+    - Implementa una función para sortear los amigos
+   ![alt text](assets/screenshot.png)
 
 - Tecnologias Usadas:
     Javascript
